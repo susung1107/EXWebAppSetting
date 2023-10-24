@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432164578632",
+    "project_id": "exwebappset",
+    "storage_bucket": "exwebappset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432164578632:android:bc47758ca0b34d6b453f7d",
+        "android_client_info": {
+          "package_name": "com.exwepappset"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzb9qzuHUeurU4xKTfwyamnDm4S8Wxpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
